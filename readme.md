@@ -16,3 +16,13 @@ http://{localhost}/api/episodes/
 Obtener un episodio (ver en la página).
 
 http://{localhost}/api/episodes/{numero}
+
+## Comandos
+
+- dotnet clean
+- dotnet build
+- dotnet run
+
+## Requisitos
+
+Configurar Vs Code para que pueda ejecutar el programa o, en su defecto, instalar VS.

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RickAndMortyApiClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1330d89649c7218155e4d72de5a98864fa7355a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb75c8063c35b6921ee5f6a7e8f03d02eaaafd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RickAndMortyApiClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RickAndMortyApiClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
